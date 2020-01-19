@@ -1,6 +1,8 @@
 # About
 
-![](/images/about/chuck.png)
+![](/images/Chuck-headshot.jpg)
+
+{% include screenshot url="Chuck-headshot.jpg" %}
 
 Hi! I'm Chuck Wooters. I currently work for Microsoft in Berkeley, CA.
 
