@@ -3,7 +3,7 @@
 A quick and easy way of aligning orthographic transcripts with audio to get word-level timing information.
 
 ## Start the server:
-Assumes you have `docker` installed. See [the lowerquality/gentle github repo](https://github.com/lowerquality/gentle) for more info.
+Assumes you have `docker` installed. See the [lowerquality/gentle github repo](https://github.com/lowerquality/gentle) for more info.
 
 ```bash
 $ docker run -p 8765:8765 lowerquality/gentle
