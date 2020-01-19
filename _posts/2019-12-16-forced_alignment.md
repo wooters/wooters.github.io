@@ -24,7 +24,7 @@ Running the above `curl` command using:
 - audio: [10 seconds of the Gettysburg address](https://www2.cs.uic.edu/~i101/SoundFiles/gettysburg10.wav) from https://www2.cs.uic.edu/~i101/SoundFiles/
 - transcript: `four score and sever years ago our fathers brought forth on this continent a new nation conceived in liberty and dedicated to the proposition that all men are created equal`
 
-Output:
+Output (truncated):
 ```
 {
   "transcript": "four score and seven years ago our fathers brought forth on this continent a new nation conceived in liberty and dedicated to the proposition that all men are created equal\n",
