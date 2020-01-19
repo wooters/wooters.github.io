@@ -1,5 +1,7 @@
 # Using the gentle forced aligner
 
+A quick and easy way of aligning orthographic transcripts with audio to get word-level timing information.
+
 ## Start the server:
 Assumes you have `docker` installed. See [the gentle github repo](https://github.com/lowerquality/gentle) for more info.
 
