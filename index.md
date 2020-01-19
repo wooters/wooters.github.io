@@ -1,7 +1,8 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Notes for anyone who discovers this site:
 
-![Image of fast.ai logo](images/logo.png)
+*19 January 2020*
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+1. What is this? A blog? I prefer to tell myself that this is not a blog. If I allowed myself to think it was, I'd feel obligated to do all the bloggy things.
+2. If you choose to read these posts, please consider that you are reading communications written by past-me and intended for future-me. Future-me was the target audience. At the time of writing, past-me assumed that what future-me would find confusing or important is what past-me found confusing or important. So, please don't take offense at any overly simplistic or condescending undertones you find herein. And, for this same reason, you may find that context and background are missing.
+3. I love to learn. If you find a mistake or have a suggestion, I'd consider it a gift if you'd share that with me. Thanks in advance kind teacher.
+4. These are my words and don't reflect the thoughts or opinions of my current (or any past) employer, or anyone else.
