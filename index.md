@@ -1,4 +1,8 @@
-# Notes for anyone who discovers this site:
+# Notes to future me
+
+Note: these are not [notes _from_ future me](https://www.youtube.com/watch?reload=9&v=SdT7r1OXFQ0)
+
+## And a few notes for anyone who discovers this site:
 
 *19 January 2020*
 
